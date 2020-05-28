@@ -1,3 +1,6 @@
-# lucyzh.github.io
+### lucyzh.github.io
 
-# blog for learning
+### blog for learning
+前端进阶记录博客，会定期更新前端知识，包括JavaScript、CSS、HTML、Vue、React、Webpack等，以及经典算法详解，记录点滴，记录成长
+
+欢迎大家star、fork，共同交流，共同进步
