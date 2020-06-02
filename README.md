@@ -6,8 +6,8 @@
 公众号：『我是前端喵』
 
 加群交流：
-![Image text](https://github.com/lucyzh/lucyzh.github.io/blob/master/images/QRcode.jpeg)
 
+![Image text](./images/QRcode.jpeg)
 
 
 ### 欢迎大家star、fork，在讨论区留言，共同交流，共同进步
