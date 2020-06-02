@@ -7,7 +7,7 @@
 
 加群交流：
 
-![Image text](./images/QRcode.jpeg)
+![wechatID:a695539](./images/QRcode.jpeg)
 
 
 ### 欢迎大家star、fork，在讨论区留言，共同交流，共同进步
