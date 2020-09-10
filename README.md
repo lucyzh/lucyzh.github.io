@@ -8,7 +8,7 @@
 加群交流：
 
 <!-- ![wechatID:a695539](./images/QRcode.jpeg) -->
-<img src='./images/QRcode.jpeg' width="300px" height='400px'>
+<img src='./images/QRcode.jpeg' width="300px" height='400px' />
 
 
 ### 欢迎大家star、fork，在讨论区留言，共同交流，共同进步
